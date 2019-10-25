@@ -1,0 +1,2 @@
+- Menggunakan bahasa HTML, CSS, dan PHP
+- Menggunakan Framework bootstrap
